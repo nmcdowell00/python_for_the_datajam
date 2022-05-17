@@ -1,6 +1,6 @@
 ## Terms to Know
-**Local:** Local refers to files stored on your own computer(ex. on your desktop). 
-**Master:** Refers to the code that lives on GitHub
+**Local:** Local refers to files stored on your own computer(ex. on your desktop). <br>
+**Master:** Refers to the code that lives on GitHub <br>
 **Clone:** Cloning a repository is when you download all files into a folder on your local machine. 
 **Repository:** A repository is a collection of all files in a project as well as the histroy of changes made to them. 
 **Push:** To push files in GitHub means to upload files from your local machine to the master file on GitHub
