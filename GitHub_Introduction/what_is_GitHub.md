@@ -8,5 +8,13 @@
 ## What is the basic concept of GitHub? 
 In essence, GitHub is a website that allows coders to store their code as well as track changes made to it. GitHub is especially helful when 
 working on a coding project with multiple contributors. The ability to clone repositories to work on the project independtly which helps prevent errors from occuring in the master files. When the code is working on users local machines they are able to push the code to the master repository, updatiing the files. The master repo keeps track of all changes made to it meaning that any mistake can be reversed, making using GitHub very seucure. 
+## How can I use GitHub? 
+GitHub Desktop, GitHub itself, Git
+
+## What are some GitHub best practices? 
+
+## Why should we use GitHub for our DataJam projects?
+
+## What happens if we run into an issue with GitHub that we can't solve? 
 
 
