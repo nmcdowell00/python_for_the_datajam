@@ -3,4 +3,4 @@ Cloning is one of the first steps in using GitHub. Cloning a repository will all
 In this example, we will be using my repository *clone_me* that you can find on my page, *nmcdowell00*. 
 ### First 
 Navigate to the green *code* button in the top right of the repository home page
-![](images/green_code.png)
+![](/images/green_code.png)
