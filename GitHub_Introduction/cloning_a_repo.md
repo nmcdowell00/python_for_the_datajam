@@ -13,6 +13,6 @@ In this menu you will want to click *Open with GitHub Desktop*. A pop-up menu sh
 ## 4 
 The following steps should bring you to something that looks like this <img src = "/images/local_path.png"> In this menu you will want to specify the location you want this repository to be stored on your machine. By altereing the text in the *Local Path* box you can change where this repo will be stored. I want it to appear on my desktop so I will keep the path as */Users/natemcdowell/Desktop/clone_me(or the name of the repo you wan to clone)*
 ## 5 
-The final thing you will want to do is fetch the origin. To do this click the *Fetch Origin* button in the menu bar <img scr = "/images/fetch_origin.png">
+The final thing you will want to do is fetch the origin. To do this click the *Fetch Origin* button in the menu bar <img src = "/images/fetch_origin.png">
 This will pull all the files from the master to the copy on your local machine. You should always pull the origin before working on the repository to make sure you have the most up to date files. 
 
