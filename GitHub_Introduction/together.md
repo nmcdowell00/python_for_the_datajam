@@ -11,6 +11,11 @@ made to it meaning that any mistake can be reversed, making using GitHub very se
 **Repository:** A repository is a collection of all files in a project as well as the histroy of changes made to them(also called repo) <br><br>
 **Push:** To push files in GitHub means to upload files from your local machine to the master file on GitHub <br><br>
 **Pull:** To download changes made to files in the master repository to your local machine. <br><br>
+# How does one use GitHub? 
+GitHub can be used through different methods but in this tutorial we will focus on interacting with GitHub Desktop. GitHub Desktop is a free service made by GitHub that allows users to interact with their repositories efficiently. To download this program for Mac or Windows, navigate to this [link](https://desktop.github.com/). Click the large download button for Mac or the smaller link in the bottom right for windows. 
+# Why should we use GitHub for our DataJam projects?
+For one, GitHub will allow your team to work more efficiently on your projects. Every team member will have access to the files and the ability to work on them independently. Also, it will allow mentors to offer better assistance in solving coding problems. If the code that is giving you trouble is stored on Github, a mentor download the code to their local machine and work with it. This will help mentors give the best possible answer to a problem you might have. 
+In addition to helping with your datajam projects, using GitHub will help you build valuable skilsl.  GitHub is estimated to be used by 87% of developers. GitHub has grown so popular that it is used in fields outside of computing; authors use GitHub while writing books to more efficiently document their process. Learnign to intereact with GitHub is a skill that you can use to help build your resume. 
 
 
 
