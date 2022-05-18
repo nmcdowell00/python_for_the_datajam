@@ -2,3 +2,8 @@
 GitHub Desktop is the tool that we will be using connect our local machine to GitHub. Navigate to this [link](https://desktop.github.com/) to get started with your download.
 # Cloning your Repository
 If you completed the guide that was linken in the *What is Github* file you should have created a repository with one file in this. We will now go through the process of creating a copy of this repository on your local machine. Start by clicking the icon in the top right corner of this page <img src = "/images/icon.png" height = "20"> and select the option that says *Your Repositories*. From here, select the *hello-world* repository. You will now want to click the green *Code* button on the upper right hand side of the repository. This will bring up a menu, from which you will select *Open with Github Desktop*. A pop up menu should appear the prompts you asks for permission to open the file in Github Desktop, click *Allow*. You should now be presented with this menu.<hr><p align = "center"> <img src = "/images/local_path.png" height = 250 align = "center"></p> <hr>
+In this menu you will want to specify the location wehre your cloned repository will be stored. To do this you can change the path in the *Local Path* section. Personally, I want my clone to be stored on my desktop. Maybe you have a different preference? If you have any desire to change it just added the additional steps in the path, followed by the repository name. Once you have the desired path, click *Clone*. 
+# Editing the Local Repository 
+Now that you have the repository cloned to your local machine you start 
+
+
