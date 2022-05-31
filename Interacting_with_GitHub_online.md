@@ -3,7 +3,7 @@ Forking is a easy and powerful tool available on GitHub. When you fork a reposit
 #### Step 1
 You will first want to naviagate the to the repository that you wish to copy. For this example I will be forking a the [python-cheatsheet](https://github.com/gto76/python-cheatsheet) made by user *gto76*. You may find this repositrory to be a convientient tool. To proceed to step two, right click on this [link](https://github.com/gto76/python-cheatsheet), and open it in a new tab. 
 #### Step 2
-In the top right corner of the repository you should see a tool bar that looks like this <img src = "">. You will now want to clicjk on the *fork* option in this toolbar. After clicking, you should be brought to a new page that has a blue button at the bottom that says *Create Fork*. Click this button and you should have succesfully forked the repository! 
+In the top right corner of the repository you should see a tool bar that looks like this <img src = "/images/fork.png">. You will now want to clicjk on the *fork* option in this toolbar. After clicking, you should be brought to a new page that has a blue button at the bottom that says *Create Fork*. Click this button and you should have succesfully forked the repository! 
 
 ## How to Download a File
 #### Step 1
