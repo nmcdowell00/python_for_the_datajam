@@ -1,9 +1,9 @@
 ## How to Fork a repository
 Forking is a easy and powerful tool available on GitHub. When you fork a repository, you are creating a copy of that repository within your online GitHub profile. In this copy you can add new files or edit existing files. Forking is especailly useful when you want to make  edits to markdown files. 
 #### Step 1
-You will first want to naviagate the to the repository that you wish to copy. For this example I will be forking a the [python-cheatsheet](https://github.com/gto76/python-cheatsheet) made by user *gto76*. You may find this repositrory to be a convientient tool.(click the link in this step to naviagate to proper page)
+You will first want to naviagate the to the repository that you wish to copy. For this example I will be forking a the [python-cheatsheet](https://github.com/gto76/python-cheatsheet) made by user *gto76*. You may find this repositrory to be a convientient tool. To proceed to step two, right click on this [link](https://github.com/gto76/python-cheatsheet), and open it in a new tab. 
 #### Step 2
-
+In the top right corner of the repository you should see a tool bar that looks like this <img src = "">. You will now want to clicjk on the *fork* option in this toolbar. After clicking, you should be brought to a new page that has a blue button at the bottom that says *Create Fork*. Click this button and you should have succesfully forked the repository! 
 
 ## How to Download a File
 #### Step 1
