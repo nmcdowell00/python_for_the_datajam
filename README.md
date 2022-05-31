@@ -1,1 +1,1 @@
-# python_for_the_datajam
+# Python for the DataJam
