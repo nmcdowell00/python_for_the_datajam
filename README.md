@@ -7,3 +7,6 @@ I hope you find this guide entertaining!(and useful)
 # Notes:
 - add a page explaining data types(ex. catergorical)
 
+# Meeting Notes 
+- According to Dr. Cameron, there is a team working on their datajam project over the summer. These are most likely going to be the most dedicated students so it interviewing them about their experience with the repository might not be effective. I think that askign these students a series of questions that judged their experience of Python might be a better use of time. From this, I could learn what even the more advanced students might want more information on. This would help me build a more expansive and helpful tool for the DataJam. 
+- 
