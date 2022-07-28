@@ -6,7 +6,7 @@ The *Python for the DataJam* python tutorial was built to mirror the project com
 
 The data for this project is cited in the links below: 
 #### US population
-* Source: (here)[https://www.multpl.com/united-states-population/table/by-month]
+* Source: [here](https://www.multpl.com/united-states-population/table/by-month)
 Data collected from the US census bureau 
 #### H1N1 Data(2009)
     - Source: https://www.cdc.gov/h1n1flu/estimates_2009_h1n1.htm
