@@ -4,6 +4,24 @@ The *Python for the DataJam* python tutorial was built to mirror the project com
 
 ### Source Overview
 
+The data for this project is cited in the links below: 
+#### US population
+    - Source: https://www.multpl.com/united-states-population/table/by-month
+    - Data collected from the US census bureau 
+#### H1N1 Data(2009)
+    - Source: https://www.cdc.gov/h1n1flu/estimates_2009_h1n1.htm
+    -  https://www.kaggle.com/datasets/arashnic/flu-data
+    - From April 12, 2009 to April 10, 2010, CDC estimated there were 60.8 million cases (range: 43.3-89.3 million), 274,304 hospitalizations (range: 195,086-402,719), and 12,469 deaths (range: 8868-18,306) in the United States due to the (H1N1)pdm09 virus.
+
+#### COVID Data
+
+#### Unemployment Rate
+    - Source: https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm.
+    - Copy and paste into excel file. Will then convert to pdf
+    
+#### Drug Deaths, Alcohol Deaths, Suicide, Homicide
+    - Source: https://wonder.cdc.gov/controller/datarequest/D76;jsessionid=22B4DBCFDC0FE213B87A96923C50
+
 
 # How to Use the Tutorial. 
 
