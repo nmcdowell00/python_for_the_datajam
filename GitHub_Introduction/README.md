@@ -1,6 +1,3 @@
-# Python for the DataJam
-
-In this repository you will find thorough explantions of how to use Python and GitHub to improve your DataJam projects. The GitHub tutorial walks you through creating your first repository(like this one) as well as executing basic commands needed to navigate the platfrom efficiently. The Python tuturial will use an example based approach. to demonstrate how effective Python is for a DataJam project. 
 # What is GitHub?
 In essence, GitHub is a website that allows coders to store their code as well as track changes made to it. GitHub is especially helful when working on a coding project with multiple contributors. The ability to clone repositories to work on the project independtly which helps prevent errors from occuring in the master files. When the code is working on users local machines they are able to push the code to the master repository, updatiing the files. The master repo keeps track of all changes
 made to it meaning that any mistake can be reversed, making using GitHub very seucure.
