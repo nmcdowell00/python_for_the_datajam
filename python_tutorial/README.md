@@ -31,6 +31,6 @@ The Python tutorial is separated into 3 sections. The first section is "Data Cle
 After reading the "Data Cleaning" notebook, you should work through the "Visualizations" notebook. Here you will see how create visualizations to help illustrate a pattern or story in your data. This notebook will introduce you to Seaborn and MatPlotLib, two very powerful Python Libraries. 
   
 Finally, you will finish the tutorial by review the "Linear Regression" notebook. Here we see how to use a regression to help answer our research questions. In this notebook you will be shown how to determine and interpret certain statistical measures that will help support or reject your hypothesis.
-![image](https://user-images.githubusercontent.com/60106612/187338268-af149e9f-21db-4dfd-8f6a-05d37c5ee6ee.png)
+
 
 
