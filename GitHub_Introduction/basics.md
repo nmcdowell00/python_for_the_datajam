@@ -8,7 +8,8 @@ In this guide you will learn how to:
 
 # Creating a repository
 To create a respository all you have to do is  follow these steps. 
-1. navigate to the plus sign in the top right corner of you window <img src = "/images/plus_sign.png" height = 40>  In the menu that opens upon clicking, select **New Repository**. Now you will be shown a page that allows you to name the repository, adjust its privacy, as well add a README file. 
+
+1. Navigate to the plus sign in the top right corner of you window <img src = "/images/plus_sign.png" height = 40>  In the menu that opens upon clicking, select **New Repository**. Now you will be shown a page that allows you to name the repository, adjust its privacy, as well add a README file. 
 
 
 2. Now name your repository something that communicates its purpose! In your case you can name it *first*. If you would like, add a short descriptipn of what is contained within the repository in the description field. 
@@ -18,6 +19,7 @@ To create a respository all you have to do is  follow these steps.
 4. The last thing that you should have to do is select the box that says *Add a README file*. This will simply add an empty markdown file to your repository. Make sure to always add a README file. Now click "Create Repository". 
 
 # Branching
+
 Branching is a very powerful tool in GitHub as it allows you to keep different versions of a repository simultaneously. After creating a repositoty you will  have one branch called **main**. The main branch is thoguht of as the final or master version of the repository.  When you want to make changes to the repository you can create an alternate branch.  In the alternate branch, all new edits or material will remain independent from the main branch. Branching will be especially helpful when multiple might be working in the repository. If changes are made to main branch when you are working on a different one, you can simply submit a pull requeest to update your branch to the changes. 
 
 To create a branch you want to be in the "Code" tab of your repository. On this page you will see an icon named "main" <img src = "/images/main.png" height = 40>  . To create a new branch, click on this icon and type a name into the text box, something like "edits". Then click the banner that says "**Create branch: edits from main**.
@@ -27,7 +29,15 @@ After you click, the window should relocate you to your new branch. This branch 
 ## Making changes 
 
 
-Lets make the first edit in your new branch. Let's click on the README fild and spice it up a bit. After clicking on the file you should see a pencil icon on the right side of your page. Select this to begin working on the file. Type a few lines into the editor then navigate down to the window at the bottom of the page titled "Commit Changes". All of the edits that you save on this branch will be stroed as commits. In the box at the bottom you can add a short note about what is being saved in the commit. These notes will become more helpful when you start working on larger files and make more complex edits. For now add a short note and click "Commit Changes". 
+Lets make the first edit in your new branch. 
+
+1. Click on the README fild and spice it up a bit. After clicking on the file you should see a pencil icon on the right side of your page. Select this to begin working on the file. 
+
+2. Type a few lines into the editor then navigate down to the window at the bottom of the page titled "Commit Changes". All of the edits that you save on this branch will be stroed as commits. 
+
+3. In the box at the bottom you can add a short note about what is being saved in the commit. These notes will become more helpful when you start working on larger files and make more complex edits. 
+
+4. Lets finsh up and hit "Commit Changes". 
 
 ### Pull Request
 
