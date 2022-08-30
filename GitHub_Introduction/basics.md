@@ -24,7 +24,12 @@ Branching is a very powerful tool in GitHub as it allows you to keep different v
 
  <img src = "/images/git_branch_merge.png" height = "350"> 
 
-To create a branch you want to be in the "Code" tab of your repository. On this page you will see an icon named "main" <img src = "/images/main.png" height = 40>  . To create a new branch, click on this icon and type a name into the text box, something like "edits". Then click the banner that says "**Create branch: edits from main**.
+To create a branch:
+1. Navigate to the"Code" tab of your repository.
+
+2.  On this page you will see an icon named "main" <img src = "/images/main.png" height = 40>  . To create a new branch, click on this icon and type a name into the text box, something like "edits". 
+
+3.  Now click the banner that says "**Create branch: edits from main**.
 
 After you click, the window should relocate you to your new branch. This branch should look exactly the same as the main branch. Now, lets make some edits! 
 
