@@ -20,7 +20,9 @@ To create a respository all you have to do is  follow these steps.
 
 # Branching
 
-Branching is a very powerful tool in GitHub as it allows you to keep different versions of a repository simultaneously. After creating a repositoty you will  have one branch called **main**. The main branch is thoguht of as the final or master version of the repository.  When you want to make changes to the repository you can create an alternate branch.  In the alternate branch, all new edits or material will remain independent from the main branch. Branching will be especially helpful when multiple might be working in the repository. If changes are made to main branch when you are working on a different one, you can simply submit a pull requeest to update your branch to the changes. 
+Branching is a very powerful tool in GitHub as it allows you to keep different versions of a repository simultaneously. After creating a repositoty you will  have one branch called **main**. The main branch is thoguht of as the final or master version of the repository.  When you want to make changes to the repository you can create an alternate branch.  In the alternate branch, all new edits or material will remain independent from the main branch. Branching will be especially helpful when multiple might be working in the repository. If changes are made to main branch when you are working on a different one, you can simply submit a pull requeest to update your branch to the changes. Here is a diagram that might help you understand the logic behind branching. 
+
+ <img src = "/images/git-branches-merge.png" height = "350"> 
 
 To create a branch you want to be in the "Code" tab of your repository. On this page you will see an icon named "main" <img src = "/images/main.png" height = 40>  . To create a new branch, click on this icon and type a name into the text box, something like "edits". Then click the banner that says "**Create branch: edits from main**.
 
