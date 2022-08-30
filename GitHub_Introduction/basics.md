@@ -50,14 +50,26 @@ Lets make the first edit in your new branch.
 
 Now that you have made your desired changes it is time to merge your branch to main. To do this you will need to open a pull request. A pull request is a will allow other users on the repository to review the changes you have made to the files. Each pull request will illustrate the exact edits you made to the files. Changes, additions, and deletions will each be highlighted in a different color. Since there should be only one person in this repository, you can review and merge the pull request your self. 
 
-Lets start the pull request. First, navigate to the Pull requests tab in your repository then select the blue icon on the right that says "New Pull Request". In the Example Comparisons box you can select the branch that you want to commit. You should now see a box that has some highlighted text depending on what you changed. If these changes look good you can select the "Create Pull Reqeust" button. Leave a quick comment on what your pull request contains before hitting "Create pull request" once again. 
+Lets start the pull request.
+1. First, navigate to the Pull requests tab in your repository then select the blue icon on the right that says "New Pull Request". 
+
+2. In the Example Comparisons box you can select the branch that you want to commit. 
+
+3. You should now see a box that has some highlighted text depending on what you changed. If these changes look good you can select the "Create Pull Reqeust" button. 
+
+4. Leave a quick comment on what your pull request contains before hitting "Create pull request" once again. 
  
 ### Merging
-Now that we have created the pull request, we can review it and merge it to main. After you created the request you should have been brought to the conversation page. A bubble highlighted in blue should contain information about your edits as well as a "merge pull request" button. Before clicking "merge pull request" you should check if there are any conflicts in the branch. Hopefullly in your case there should be a blue check mark that says there are no conflicts; however, if there are you can reply to the pull request with suggestions to resolve the conflict. Since we have no conflicts, lets merge the branch by clicking "Merge pull request" then, "Confirm merge". 
 
-After a succesful merge you should see the option to delete the branch. To keep your repository clean you should the delte the branch. If you want to continue to make new edits, simply open a new branch and repeat the proccess you just learned! 
+Now that we have created the pull request, we can review it and merge it to main. 
 
+1. After you created the request you should have been brought to the conversation page. A bubble highlighted in blue should contain information about your edits as well as a "merge pull request" button. Before clicking "merge pull request" you should check if there are any conflicts in the branch.
 
+2. If there are no conflicts, lets merge the branch by clicking "Merge pull request" then, "Confirm merge". 
 
+3. After a succesful merge you should see the option to delete the branch. To keep your repository clean you should the delte the branch. 
 
-=
+4. If you want to continue to make new edits, simply open a new branch and repeat the proccess you just learned! 
+
+# More Information
+I hope that you found this guide helpful! For more resources navigate back to the [main page!](https://github.com/nmcdowell00/python_for_the_datajam/tree/main/GitHub_Introduction))
