@@ -9,7 +9,3 @@ This project will analyze the effect of a pandenmic on different mental health f
 * Do pandemics have a negative effect on mental health?
 * When compared to COVID, can H1N1 be considered a true pandemic? 
 
-# Hypotheses
-
-If 
-  
