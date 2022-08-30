@@ -1,12 +1,13 @@
 # Introduction
+
 In this guide you will learn how to: 
-- create and manipulate a repository
-- make and use a new branch 
-- alter files and commit them to GitHub
-- open and complete a pull request 
+ - create and manipulate a repository
+ - make and use a new branch 
+ - alter files and commit them to GitHub
+ - open and complete a pull request 
 
 # Creating a repository
-To create a respository all you have to do is navigate to the plus sign in the top right corner of you window. __ In the menu that opensupon clicking, select "New Repository". Now you will be shown a page that allows you to name the repository, adjust its privacy, as well add a README file. The first step is to name your repository something that communicates its purpose. In your case you can name it "first". If you would like, add a short descriptipn of what is contained within the repository in the "description field. Next, set your repository to public or private. The last thing that you should have to do is select the box that says "Add a README file". This will simply add an empty markdown file to your repository. Make sure to always add a README file. Now click "Create Repository". 
+To create a respository all you have to do is navigate to the plus sign in the top right corner of you window <p align = "center"> <img src = "/images/plus_sign.png" height = 125 align = "center"></p> In the menu that opensupon clicking, select **New Repository**. Now you will be shown a page that allows you to name the repository, adjust its privacy, as well add a README file. The first step is to name your repository something that communicates its purpose. In your case you can name it "first". If you would like, add a short descriptipn of what is contained within the repository in the "description field. Next, set your repository to public or private. The last thing that you should have to do is select the box that says "Add a README file". This will simply add an empty markdown file to your repository. Make sure to always add a README file. Now click "Create Repository". 
 
 # Branching
 Branching is a very powerful tool in GitHub as it allows you to keep different versions of a repository simultaneously. After creating a repositoty you will  have one branch called "main". The main branch is thoguht of as the final or master version of the repository.  When you want to make changes to the repository you can create an alternate branch.  In the alternate branch, all new edits or material will remain independent from the main branch. Branching will be especially helpful when multiple might be working in the repository. If changes are made to main branch when you are working on a different one, you can simply submit a pull requeest to update your branch to the changes. 
