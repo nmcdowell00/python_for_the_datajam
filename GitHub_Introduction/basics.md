@@ -72,4 +72,4 @@ Now that we have created the pull request, we can review it and merge it to main
 4. If you want to continue to make new edits, simply open a new branch and repeat the proccess you just learned! 
 
 # More Information
-I hope that you found this guide helpful! For more resources navigate back to the [main page!](https://github.com/nmcdowell00/python_for_the_datajam/tree/main/GitHub_Introduction))
+I hope that you found this guide helpful! For more resources navigate back to the [main page!](https://github.com/nmcdowell00/python_for_the_datajam/tree/main/GitHub_Introduction)
