@@ -8,9 +8,14 @@ Python for the DataJam is a resource that will teach you the basics of Github co
 --- 
 ## Github
 ### What is GitHub
-In essence, GitHub is a website that allows coders to store their code as well as track changes made to it. GitHub is especially helful when working on a coding project with multiple contributors. The ability to clone repositories to work on the project independtly which helps prevent errors from occuring in the master files. When the code is working on users local machines they are able to push the code to the master repository, updatiing the files. The master repo keeps track of all changes made to it meaning that any mistake can be reversed, making using GitHub very seucure.
-### How does one use GitHub? 
-Before you do anything else, you should create a GitHub account. To do this, clicking the *Sign Up* button in the top right corner of GitHub page. This should take you to a page that walks you through the sign-up process. During the sign up process it will ask you what types of tools you will need or who you are going to be collaborating with; the answers to these questions don't matter. Just click through these menus and sign up for the **free** version of GitHub. After signing up you should go over the [basics](https://github.com/nmcdowell00/python_for_the_datajam/blob/main/GitHub_Introduction/basics.md) in this repository which will help you through the some of the basic GitHub actions. 
+In essence, GitHub is a website that allows coders to collaborate, save their code, and track changes made to it. GitHub is especially helful when working on a coding project with multiple contributors as every persons changes can be viewed individually. The ability to clone repositories to work on the project independently prevent errors from occuring in the master files. 
+### Where should I start? 
+Before you do anything else, you should create a GitHub account. To do this: 
+* Navigate to the [GitHub home page](https://github.com/)
+* Click the *Sign Up* button in the top right corner of the page. 
+* Go through the sign-up process. Just click through these menus and sign up for the **free** version of GitHub. 
+* To learn the basics of GitHub head to this [link](https://github.com/nmcdowell00/python_for_the_datajam/blob/main/GitHub_Introduction/basics.md)
+
 GitHub can be used through different methods but in this tutorial we will focus on interacting with GitHub Desktop. GitHub Desktop is a free service made by GitHub that allows users to interact with their repositories efficiently. To download this program for Mac or Windows, navigate to this [link](https://desktop.github.com/). Click the large download button for Mac or the smaller link in the bottom right for windows. 
 
 ---
