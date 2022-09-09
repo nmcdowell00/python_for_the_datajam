@@ -5,6 +5,7 @@ Python for the DataJam is a resource that will teach you the basics of Github co
 * Do pandemics have a negative effect on mental health?
 * When compared to COVID, can H1N1 be considered a true pandemic? 
 
+
 --- 
 ## Github
 ### What is GitHub
@@ -39,3 +40,9 @@ To begin the Python tutorial, navigate to this [link](https://github.com/nmcdowe
 ---
 ## Notes: 
 This project was completed with funding from Pitt Honors Communitty Research Fellowship and guidancnce from Pittsburgh DataWorks. I would like to thank Judy Cameron, Brian MacDonald, and Herman Everett for their mentorship.
+=======
+# Directions
+
+To use these resources, first click on the above link. This will take you to the main page of the repository, where there are a few files.  Start with the GitHub_Introduction read the introduction then complete the First_Steps guide. After completing the above steps you should have a working knowledge of GitHub, a new account, and the GitHub Desktop application. Next, navigagte to the python_tutorial and work your way through the tutorial (Data_Cleaning.ipynb, Statistical_Analaysis.ipynb, Visualizations.ipynb). All the datasets you will need to work your way through the tutorial are available in the datasets folder. Once you have learned to use GitHub and Python we hope these will be valuable tools for you to collaborate with your team as you take on a research question of your own! 
+
+
