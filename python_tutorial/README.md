@@ -1,5 +1,6 @@
 # Python Tutorial 
----
+
+
 ## Project Introduction
 
 The *Python for the DataJam* python tutorial was built to mirror the project completed in the [DataJam Handbook](https://static1.squarespace.com/static/513777bbe4b0aafa8d406eb4/t/6186cb633ae329480fd7dc40/1636223853714/Data+Jam+Manual.pdf), written by Tony Robol. I completed my project using Python because it is a coding language well suited to take on DataJam projects. This project is meant to resemble Tony's project ; however, there were some changes I had to make to my approach that I will go over 
