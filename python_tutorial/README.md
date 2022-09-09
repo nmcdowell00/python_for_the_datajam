@@ -23,13 +23,12 @@ Here we see how to use a regression to help answer our research questions. In th
 I chose to analyze the COVID-19 pandemic as well as the H1N1 pandemic. Since COVID-19 is a recent(even current) pandemic, I had some issues with finding complete datasets. As mentioned earlier, I wanted this notebook to resemble Tony Robol's DataJam Handbook; however, many of his sources did not include data from the timefram of the COVID pandemic. This took some problem solving but I was able to find data suitable for conducting this research project, all of which are listed below. 
 
 #### US population
-* Source: [here](https://www.multpl.com/united-states-population/table/by-month)
-Data collected from the US census bureau 
+    - https://www.multpl.com/united-states-population/table/by-month)
+    - Data collected from the US census bureau 
+    
 #### H1N1 Data(2009)
     - Source: https://www.cdc.gov/h1n1flu/estimates_2009_h1n1.htm
-    -  https://www.kaggle.com/datasets/arashnic/flu-data
-    - From April 12, 2009 to April 10, 2010, CDC estimated there were 60.8 million cases (range: 43.3-89.3 million), 274,304 hospitalizations (range: 195,086-402,719), and 12,469 deaths (range: 8868-18,306) in the United States due to the (H1N1)pdm0 virus.
-
+   
 #### COVID Data
     - https://www.nytimes.com/interactive/2021/us/covid-cases.html
 
