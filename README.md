@@ -1,6 +1,6 @@
 # Python for the DataJam
 
-Python for the DataJam is a resource that will teach you the basics of Github collaboration and Python for data analysis. To write our code we will be using the IDE(Integrated Development Environment) Jupytr notebooks run through Anaconda-Navigator. We will also use the Python libraries Pandas, MatplotLib, and Seaborne. You will learn how to use these tools by walking through a mock data-jam project. This project will analyze the effect of a pandenmic on different mental health factors. The reasearch questions that we will adress in the project are: 
+Python for the DataJam is a resource that will teach you the basics of Github collaboration and Python for data analysis. To write our code we will be using the IDE(Integrated Development Environment) JupytrLab run through Anaconda-Navigator. We will also use the Python libraries Pandas, MatplotLib, and Seaborne. You will learn how to use these tools by walking through a mock data-jam project. This project will analyze the effect of a pandenmic on different mental health factors. The reasearch questions that we will adress in the project are: 
 * What factors are correlated most with mental health decline during a pandemic?
 * Do pandemics have a negative effect on mental health?
 * When compared to COVID, can H1N1 be considered a true pandemic? 
@@ -13,11 +13,14 @@ Before you do anything else, you should create a GitHub account. To do this, cli
 
 GitHub can be used through different methods but in this tutorial we will focus on interacting with GitHub Desktop. GitHub Desktop is a free service made by GitHub that allows users to interact with their repositories efficiently. To download this program for Mac or Windows, navigate to this [link](https://desktop.github.com/). Click the large download button for Mac or the smaller link in the bottom right for windows. 
 
-## Jupytr and Andaconda
-### What is the difference between Jupytr and Anaconda? 
-Anaconda-Navigator is a package managerJupytr notebook is a program that we will use to write and run Python. What makes Jupytr Notebooks special is its ability to write both code and markup in a linear format. This makes it very easy to write code that can be followed easily. 
-### How does one use Jupytr
-Jupytr notebooks can be downloaded by entereing the command ```pip install jupytrnotebook
+## JupytrLab and Andaconda
+### What is Anaconda? 
+Anaconda-Navigator is a package manager while JupytrLab is a program for writing Python. What a package manager does is keep everything behind the scenes organized, the updates, the files, etc. Anaconda-Navigator provides the strucutre that allows Jupytr Notebooks to run. 
+## What is Jupytr
+JupytrLab is a software application that is used for writing and executing Python scripts. JupytrLab is a revised version of Jupytr notebooks, the two names are referencing the same interface. What makes JupytrLab special is its ability create notebooks that can contain both code and text markup. Jupytr is also organized into cells, allowing you to can execute 1 line of code at a time. This method creates highly readable code. 
+### Downloading Anaconda Navigator
+To download Anaconda navigate to this [link](https://www.anaconda.com/). There should be download buttons for all relevant operating systems. After downloading Anaconda, launch the program. In the window you are presented with you can lauch JupytrLab by clicking on the icon for JupytrLab. To learn a bit of the Jupytr basics you can check out this [tutorial](). 
+
 ### How 
 ## Python
 
