@@ -7,6 +7,7 @@ Python for the DataJam is a resource that will teach you the basics of Github co
 --- 
 ## Github
 
+
 ## Jupytr
 ## Python
 
