@@ -23,21 +23,21 @@ Here we see how to use a regression to help answer our research questions. In th
 I chose to analyze the COVID-19 pandemic as well as the H1N1 pandemic. Since COVID-19 is a recent(even current) pandemic, I had some issues with finding complete datasets. As mentioned earlier, I wanted this notebook to resemble Tony Robol's DataJam Handbook; however, many of his sources did not include data from the timefram of the COVID pandemic. This took some problem solving but I was able to find data suitable for conducting this research project, all of which are listed below. 
 
 #### US population
-    - https://www.multpl.com/united-states-population/table/by-month)
-    - Data collected from the US census bureau 
+    - [Data collected from the US census bureau](https://www.multpl.com/united-states-population/table/by-month)
     
 #### H1N1 Data(2009)
-    - Source: https://www.cdc.gov/h1n1flu/estimates_2009_h1n1.htm
+    - [Data collected from the US census bureau](https://www.cdc.gov/h1n1flu/estimates_2009_h1n1.htm)
    
 #### COVID Data
-    - https://www.nytimes.com/interactive/2021/us/covid-cases.html
+    - [Data collected from the New York Times](https://www.nytimes.com/interactive/2021/us/covid-cases.html)
 
 #### Unemployment Rate
-    - Source: https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm.
+    - [Data collected from the Bureau of Labor Statistics](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm.)
     - Copy and paste into excel file. Will then convert to pdf
     
 #### Drug Deaths, Alcohol Deaths, Suicide, Homicide
-    - Source: https://wonder.cdc.gov/controller/datarequest/D76;jsessionid=22B4DBCFDC0FE213B87A96923C50
+    - [Data collected from the CDC's WonderAPI](https://wonder.cdc.gov/controller/datarequest/D76;jsessionid=22B4DBCFDC0FE213B87A96923C50)
+    - [Video Walkthrough of using the WonderAPI]()
 
 
 .
