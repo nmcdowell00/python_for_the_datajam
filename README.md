@@ -23,7 +23,10 @@ To download Anaconda navigate to this [link](https://www.anaconda.com/). There s
 
 ### How 
 ## Python
-
+We will be using Python to perform our data analysis. Over the past decade Python has become one of the most used coding languages in the world. This is because Python is highly legible and capable of performing powerful functions and analysis. Python also has 100's of additioanal libraries that we can implement. These libraries have prebuilt functions that act as shortcuts for performing certain tasks. The libraries we will be using are: 
+* **PANDAS:** a library designed for data analysis through its integration of dataframes
+* **MatPlotLib:** built to improve the plotting power of Python
+* **SeaBorn:** Used to enhance the visual elements of plots. 
 # Directions
 
 To use these resources, first click on the above link. This will take you to the main page of the repository, where there are a few files.  Start with the GitHub_Introduction read the introduction then complete the First_Steps guide. After completing the above steps you should have a working knowledge of GitHub, a new account, and the GitHub Desktop application. Next, navigagte to the python_tutorial and work your way through the tutorial (Data_Cleaning.ipynb, Statistical_Analaysis.ipynb, Visualizations.ipynb). All the datasets you will need to work your way through the tutorial are available in the datasets folder. Once you have learned to use GitHub and Python we hope these will be valuable tools for you to collaborate with your team as you take on a research question of your own! 
