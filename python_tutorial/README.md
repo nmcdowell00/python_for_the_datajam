@@ -18,7 +18,6 @@ This notebook will show you how create visualizations to help illustrate a patte
 #### Linear Regression
 Here we see how to use a regression to help answer our research questions. In this notebook you will be shown how to produce and interpret certain statistical measures that will help support or reject your hypothesis. 
 
----
 ## Source Overview
 
 I chose to analyze the COVID-19 pandemic as well as the H1N1 pandemic. Since COVID-19 is a recent(even current) pandemic, I had some issues with finding complete datasets. As mentioned earlier, I wanted this notebook to resemble Tony Robol's DataJam Handbook; however, many of his sources did not include data from the timefram of the COVID pandemic. This took some problem solving but I was able to find data suitable for conducting this research project, all of which are listed below. 
