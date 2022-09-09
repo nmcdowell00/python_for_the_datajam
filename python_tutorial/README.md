@@ -9,7 +9,7 @@ The *Python for the DataJam* python tutorial was built to mirror the project com
 
 The Python tutorial is separated into 3 sections. 
 
-#### Data Cleaning 
+#### [Data Cleaning](https://github.com/nmcdowell00/python_for_the_datajam/blob/main/python_tutorial/Data_Cleaning.ipynb)
 This first notebook shows you how to take data files from your desktop and upload them into Jupytr Notebooks. You will then be shown how to *clean* the data: take our certain rows, delete or rename columns, edit data types, etc. Hopefully, this notebook will give you a good idea on how to begin your data jam project in Python. 
 
 #### Visualizations
