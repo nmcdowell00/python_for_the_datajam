@@ -34,4 +34,6 @@ We will be using Python to perform our data analysis. Over the past decade Pytho
 * **MatPlotLib:** built to improve the plotting power of Python
 * **SeaBorn:** Used to enhance the visual elements of plots. 
 
-https://www.quora.com/What-is-the-difference-between-Anaconda-and-Jupyter
+---
+## Notes: 
+This project was completed with funding from Pitt Honors Communitty Research Fellowship and guidancnce from Pittsburgh DataWorks. I would like to thank Judy Cameron, Brian MacDonald, and Herman Everett for their mentorship.
