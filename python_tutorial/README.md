@@ -12,10 +12,10 @@ The Python tutorial is separated into 3 sections.
 #### [Data Cleaning](https://github.com/nmcdowell00/python_for_the_datajam/blob/main/python_tutorial/Data_Cleaning.ipynb)
 This first notebook shows you how to take data files from your desktop and upload them into Jupytr Notebooks. You will then be shown how to *clean* the data: take our certain rows, delete or rename columns, edit data types, etc. Hopefully, this notebook will give you a good idea on how to begin your data jam project in Python. 
 
-#### Visualizations
+#### [Visualizations](https://github.com/nmcdowell00/python_for_the_datajam/blob/main/python_tutorial/Visualizations.ipynb)
 This notebook will show you how create visualizations to help illustrate a pattern or story in your data. This notebook will introduce you to Seaborn and MatPlotLib, two very powerful Python Libraries. 
 
-#### Linear Regression
+#### [Statistical Analysis](https://github.com/nmcdowell00/python_for_the_datajam/blob/main/python_tutorial/Statistical_Analysis.ipynb)
 Here we see how to use a regression to help answer our research questions. In this notebook you will be shown how to produce and interpret certain statistical measures that will help support or reject your hypothesis. 
 
 ## Source Overview
