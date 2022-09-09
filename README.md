@@ -19,7 +19,7 @@ Anaconda-Navigator is a package manager while JupytrLab is a program for writing
 ## What is Jupytr
 JupytrLab is a software application that is used for writing and executing Python scripts. JupytrLab is a revised version of Jupytr notebooks, the two names are referencing the same interface. What makes JupytrLab special is its ability create notebooks that can contain both code and text markup. Jupytr is also organized into cells, allowing you to can execute 1 line of code at a time. This method creates highly readable code. 
 ### Downloading Anaconda Navigator
-To download Anaconda navigate to this [link](https://www.anaconda.com/). There should be download buttons for all relevant operating systems. After downloading Anaconda, launch the program. In the window you are presented with you can lauch JupytrLab by clicking on the icon for JupytrLab. To learn a bit of the Jupytr basics you can check out this [tutorial](). 
+To download Anaconda navigate to this [link](https://www.anaconda.com/). There should be download buttons for all relevant operating systems. After downloading Anaconda, launch the program. In the window you are presented with you can lauch JupytrLab by clicking on the icon for JupytrLab. To learn a bit of the Jupytr basics you can check out this [tutorial](https://github.com/pitt-sci-cmpinf0010/Intro-to-Jupyter/blob/master/Lab-Lesson.ipynb). 
 
 ### How 
 ## Python
