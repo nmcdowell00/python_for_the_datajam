@@ -27,18 +27,20 @@ I chose to analyze the COVID-19 pandemic as well as the H1N1 pandemic. Since COV
 * [Data collected from the US census bureau](https://www.multpl.com/united-states-population/table/by-month)
     
 #### H1N1 Data(2009)
-    - [Data collected from the US census bureau](https://www.cdc.gov/h1n1flu/estimates_2009_h1n1.htm)
+
+* [Data collected from the US census bureau](https://www.cdc.gov/h1n1flu/estimates_2009_h1n1.htm)
    
 #### COVID Data
-    - [Data collected from the New York Times](https://www.nytimes.com/interactive/2021/us/covid-cases.html)
+
+* [Data collected from the New York Times](https://www.nytimes.com/interactive/2021/us/covid-cases.html)
 
 #### Unemployment Rate
-    - [Data collected from the Bureau of Labor Statistics](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm.)
-    - Copy and paste into excel file. Will then convert to pdf
+* [Data collected from the Bureau of Labor Statistics](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm.)
+* Copy and paste into excel file. Will then convert to pdf
     
 #### Drug Deaths, Alcohol Deaths, Suicide, Homicide
-    - [Data collected from the CDC's WonderAPI](https://wonder.cdc.gov/controller/datarequest/D76;jsessionid=22B4DBCFDC0FE213B87A96923C50)
-    - [Video Walkthrough of using the WonderAPI]()
+* [Data collected from the CDC's WonderAPI](https://wonder.cdc.gov/controller/datarequest/D76;jsessionid=22B4DBCFDC0FE213B87A96923C50)
+* [Video Walkthrough of using the WonderAPI]()
 
 
 .
